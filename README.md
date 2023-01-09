@@ -7,10 +7,6 @@ Front-end developer and student of BSUIR (Information Security) with strong anal
 - ⚡ Fun facts: I love playing electric guitar, Cooking diffrent kinds of food!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mustafa-johnny-44185a218/)
 
-<hr />
-
-#### GitHub Stats
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=MustafaJohnny&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosajen27&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" />
 
 <hr />
 
