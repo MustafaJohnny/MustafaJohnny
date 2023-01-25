@@ -2,7 +2,7 @@
 
 Front-end developer and student of BSUIR (Information Security) with strong analytical, communication and problem solving skills aiming to become a professional Full-stack developer. I enjoy creating things that live on the internet and finding the challenges that programming brings, it's just very exciting! Picking tech as my path has enabled me to continue my passion for learning and embrace my status as a forever student.
 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning PHP
 - 🔍 I’m looking forward to learn more things, write more code and contribute to open source projects.
 - ⚡ Fun facts: I love playing electric guitar, Cooking diffrent kinds of food!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mustafa-johnny-44185a218/)
